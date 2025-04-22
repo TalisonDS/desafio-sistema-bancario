@@ -1,6 +1,6 @@
 <h1 align="center"> Desafio Sistema Bancário com Python </h1>
 
-## Tecnologias utilizadas
+## Tecnologia utilizada
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
@@ -8,7 +8,7 @@
 
 criar um sistema bancário com as operações: Sacar, Depositar e Visualizar o extrato.
 
-## Objetivo Específico
+## Objetivos Específicos
 
 ### Operação de Depósito:
 
